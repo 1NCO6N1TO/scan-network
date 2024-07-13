@@ -1,5 +1,7 @@
 # scan_network.sh 🖥️📡
 
+
+
 ## Descripción
 
 `scan_network.sh` es un script de Bash diseñado para escanear una subred en busca de hosts activos. Este script es especialmente útil en situaciones de **pivoting** 🔄, donde es necesario escanear una subred desde una máquina víctima y no se dispone de herramientas como `nmap`. El script utiliza comandos básicos de Bash para realizar pings a los hosts dentro de la subred especificada.
