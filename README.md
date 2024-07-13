@@ -1,4 +1,4 @@
-# `scan_network.sh` 🖥️📡
+# scan_network.sh 🖥️📡
 
 ## Descripción
 
