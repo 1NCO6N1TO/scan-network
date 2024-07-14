@@ -41,4 +41,7 @@ Si deseas contribuir a este proyecto, por favor, crea un fork del repositorio, r
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
+## 🧑‍💻 Autor
+
+- **1NCO6N1TO** - [GitHub](https://github.com/1NCO6N1TO)
 ---
